@@ -1,0 +1,6 @@
+outputs/
+__pycache__/
+*.pt
+*.ckpt
+*.h5
+*.DS_Store
